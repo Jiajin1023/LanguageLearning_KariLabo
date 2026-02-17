@@ -1,0 +1,7 @@
+{
+  "name": "Language Learning",
+  "description": "An interactive language learning app that uses AI to generate vocabulary, grammar exercises, and quizzes across multiple languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
